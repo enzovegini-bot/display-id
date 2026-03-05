@@ -15,6 +15,10 @@ body{
     background-color: yellow;
     margin: 10px;
 }
+.red {
+    padding-right: 170px;
+    background-color: red;
+}
 
 .flex{
     display: flex;
