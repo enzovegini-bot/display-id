@@ -1,5 +1,12 @@
+body{
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
 .blue {
-    padding: 20px;
+    padding: 100px;
     background-color: blue;
-    
+
 }
