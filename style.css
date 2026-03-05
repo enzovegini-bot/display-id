@@ -10,3 +10,12 @@ body{
     background-color: blue;
 
 }
+.yo {
+    padding: 50px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
+}
